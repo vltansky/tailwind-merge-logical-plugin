@@ -1,6 +1,6 @@
 {
     "name": "tailwind-merge-logical-plugin",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "description": "CSS Logical Properties and Values Plugin for tailwind-merge",
     "keywords": [
         "tailwind-merge",
